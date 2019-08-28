@@ -1,3 +1,9 @@
+# Jacob Espey's First CS 193 Homework
+## Favorite Things About CS 193
+- I get to code!
+- Learn more about different coding resources.
+- Freedom in what I'm coding to a certain extent.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
